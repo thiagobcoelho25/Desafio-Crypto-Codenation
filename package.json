@@ -1,0 +1,16 @@
+{
+  "name": "cripto-julio",
+  "version": "1.0.0",
+  "description": "challenge from codenation",
+  "main": "cripto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "sha1": "^1.1.1"
+  }
+}
